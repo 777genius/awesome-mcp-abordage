@@ -353,6 +353,8 @@ categories:
             description: AI browser agent, ships as an MCP server and a web UI
       - name: Browser Tools
         repos:
+          - url: https://github.com/masakaai/rea-captcha
+            description: Local MCP for verification detection, authorized test-flow actions, and validated same-session browser-agent resumption.
           - url: https://github.com/BB-fat/browser-use-rs
             description: Rust-based browser automation MCP server
           - url: https://github.com/browsermcp/mcp
