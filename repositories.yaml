@@ -2113,6 +2113,8 @@ categories:
         description: Apple Health data queries with DuckDB
       - url: https://github.com/OHNLP/omop_mcp
         description: MCP server for OMOP medical data standard
+      - url: https://github.com/yumaheymans/carejobs-mcp
+        description: Remote MCP server for US healthcare jobs and posted pay by kind of job
       - url: https://github.com/matthewdcage/pbs-mcp-server
       - url: https://github.com/fulcradynamics/fulcra-context-mcp
       - url: https://github.com/tomekkorbak/oura-mcp-server
