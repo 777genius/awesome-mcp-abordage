@@ -2425,6 +2425,8 @@ categories:
             description: OpenCV image and video processing
           - url: https://github.com/trycon/scanova-mcp
           - url: https://github.com/screenshotone/mcp
+          - url: https://github.com/SergiuPogor/curlshot-mcp
+            description: Hosted MCP server for web page screenshots, PDFs and scrolling videos
           - url: https://github.com/groundlight/mcp-vision
           - url: https://github.com/IDEA-Research/DINO-X-MCP
             description: MCP server for DINO-X vision model
