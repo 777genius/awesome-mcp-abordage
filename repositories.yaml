@@ -2334,6 +2334,8 @@ categories:
         description: Claim by Ouroboros Apps - approved brand claims, offers, and banned phrases for AI-written marketing copy
       - url: https://github.com/LAHutchins91/rank-mcp
         description: Rank by Ouroboros Apps - SEO rankings and traffic from Google Search Console, read-only
+      - url: https://github.com/AltoRank/altorank
+        description: Open-source SEO content software with a hosted MCP server - readiness audits, Search Console, keyword research and drafts into a review queue
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
