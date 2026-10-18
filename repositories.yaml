@@ -1542,6 +1542,8 @@ categories:
           - url: https://github.com/omni-mcp/isaac-sim-mcp
           - url: https://github.com/abrinsmead/mindpilot-mcp
             description: Visualize code and architect new systems
+          - url: https://github.com/Superfast-Robotics/robot-skill-hub
+            description: Read-only MCP discovery of pinned robotics code and preparation recipes
       - name: Task Management
         repos:
           - url: https://github.com/cjo4m06/mcp-shrimp-task-manager
