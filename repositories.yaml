@@ -259,6 +259,8 @@ categories:
             description: MCP aggregator combining multiple servers into one interface
           - url: https://github.com/mrrlin-dev/external-agents
             description: Routes requests across multiple LLM providers through one interface, enabling cost savings and more available tokens
+          - url: https://github.com/ZerouterAI/zerouter-mcp
+            description: AI API gateway for Claude, GPT, Gemini, Grok and Kimi with one OpenAI-compatible key; chat, model comparison and API pricing
           - url: https://github.com/ComposioHQ/Rube
             description: Connect AI tools to 500+ apps
           - url: https://github.com/badkk/awesome-crypto-mcp-servers
