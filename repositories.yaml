@@ -2348,6 +2348,12 @@ categories:
         description: Open-source SEO content software with a hosted MCP server - readiness audits, Search Console, keyword research and drafts into a review queue
       - url: https://github.com/nikunjness/backlinkgenie-mcp
         description: BacklinkGenie - hosted link-building outreach; approve pitches, answer editor replies, track won backlinks
+      - url: https://github.com/top-init/socialgrowthengineers-mcp-registry-listing
+        description: Social Growth Engineers - hosted MCP server for researching viral TikTok and Instagram app-marketing videos, hook trends and growth case studies (OAuth)
+      - url: https://github.com/top-init/appstoretracker-mcp-registry-listing
+        description: App Store Tracker - hosted MCP server for iOS App Store rankings, competitor monitoring and app research (API key)
+      - url: https://github.com/top-init/shortimize-mcp-registry-listing
+        description: Shortimize - hosted MCP server for tracking TikTok, Instagram and YouTube short-form video performance across accounts (API key)
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
