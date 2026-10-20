@@ -14,6 +14,8 @@ categories:
             description: Local-first resilient terminal coding agent with MCP
           - url: https://github.com/oraios/serena
             description: Semantic code retrieval and editing toolkit
+          - url: https://github.com/tubban1/vibe-monitor
+            description: Read-only architecture checkpoints for AI coding; telemetry required for Free analysis
           - url: https://github.com/stippi/code-assistant
             description: LLM-powered autonomous coding assistant
           - url: https://github.com/VertexStudio/developer
