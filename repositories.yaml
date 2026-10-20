@@ -65,8 +65,6 @@ categories:
             description: Remote MCP and A2A home base for agents with memory, rooms, a job board and an agent directory
           - url: https://github.com/alexcarney460-hue/walkie
             description: Live team dashboard for Claude Code and Codex agents, with agent-to-agent questions over MCP and peer-to-peer links between machines
-          - url: https://github.com/benord-labs/frink
-            description: Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers.
       - name: Reasoning & Prompts
         repos:
           - url: https://github.com/Rai220/think-mcp
@@ -2279,6 +2277,8 @@ categories:
       - url: https://github.com/php-mcp/client
       - url: https://github.com/aeonfun/aeon
         description: GitHub Actions agents with OAuth to remote MCP servers
+      - url: https://github.com/benord-labs/frink
+        description: Desktop-first app for parallel agents and triggered multi-step workflows
   - name: Marketing & Analytics
     repos:
       - url: https://github.com/AdsMCP/tiktok-ads-mcp-server
