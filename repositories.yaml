@@ -68,7 +68,7 @@ categories:
           - url: https://github.com/alexcarney460-hue/walkie
             description: Live team dashboard for Claude Code and Codex agents, with agent-to-agent questions over MCP and peer-to-peer links between machines
           - url: https://github.com/Get-Concord-AI/concord-mcp
-description: Local-first shared work-state for coding agents with presence, file claims, messaging, handoffs and review packets
+            description: Local-first shared work-state for coding agents with presence, file claims, messaging, handoffs and review packets
       - name: Reasoning & Prompts
         repos:
           - url: https://github.com/Rai220/think-mcp
