@@ -2247,6 +2247,8 @@ categories:
           - url: https://github.com/louiscklaw/mcp-hko
   - name: MCP Clients
     repos:
+      - url: https://github.com/Mubboo-Ai/mubboo-flights-mcp
+        description: MIT client examples and connection configs for a privately hosted travel MCP; airport lookup, trip validation and flight-search links, no live fares or booking.
       - url: https://github.com/mario-andreschak/FLUJO
         description: Local visual agent builder with MCP and multi-model chat
       - url: https://github.com/ASCIT31/Dark-Moon
