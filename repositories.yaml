@@ -2287,6 +2287,8 @@ categories:
         description: GitHub Actions agents with OAuth to remote MCP servers
       - url: https://github.com/benord-labs/frink
         description: Desktop-first app for parallel agents and triggered multi-step workflows
+      - url: https://github.com/LeulAria/VOLT
+        description: AI code editor on VS Code core with MCP client support and ACP coding agents
   - name: Marketing & Analytics
     repos:
       - url: https://github.com/AdsMCP/tiktok-ads-mcp-server
