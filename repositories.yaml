@@ -3232,6 +3232,10 @@ categories:
             description: Pre-flight GitHub bounty security scanner and on-chain Proof-of-Escrow MCP verifier
           - url: https://github.com/doomsday-network/doom-pay
             description: Non-custodial 2-line Web3 checkout widget and MCP server for verifying DOOM and Base Mainnet wDOOM payment receipts
+          - url: https://github.com/doomsday-network/web3-agent-skills
+            description: Modular SKILL.md definitions and MCP tools for AI coding agents to audit Proof-of-Escrow bounties and settle non-custodial Web3 payments
+          - url: https://github.com/doomsday-network/github-bounty-scanner
+            description: Zero-dependency CLI and MCP server that scans open GitHub bounties and verifies on-chain Proof-of-Escrow collateral
           - url: https://github.com/tomelias10/mcp-drift-check
             description: Passive local CLI that flags mutable npm/npx package references in MCP client configurations without executing servers.
           - url: https://github.com/82ch/MCP-Dandan
