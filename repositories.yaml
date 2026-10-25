@@ -764,6 +764,8 @@ categories:
           - url: https://github.com/team-telnyx/telnyx-mcp-server
           - url: https://github.com/voygr-tech/placecall
             description: Hosted MCP server that phones US businesses for an agent and returns the outcome, transcript and recording
+          - url: https://github.com/radres/call-me
+            description: Hosted MCP server that rings the user's iPhone so an agent can ask aloud and get the spoken answer; needs the paid /call-me iPhone app
   - name: Data & Analytics
     subcategories:
       - name: AI/ML Platforms
