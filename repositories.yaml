@@ -2926,6 +2926,8 @@ categories:
       - url: https://github.com/amornpan/tmd-earthquake-server-1.0
       - url: https://github.com/neuromechanist/matlab-mcp-tools
         description: MATLAB pipelines by section and figure inspection
+      - url: https://github.com/Scento-com/perfume-mcp-server
+        description: Remote, read-only perfume knowledge server for AI assistants with notes, families, raw materials and similar scents, no API key.
   - name: Sandboxing & Execution
     repos:
       - url: https://github.com/alfonsograziano/node-code-sandbox-mcp
