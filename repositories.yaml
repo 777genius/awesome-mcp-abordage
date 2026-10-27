@@ -2906,6 +2906,8 @@ categories:
           - url: https://github.com/lucamauri/MediaWiki-MCP-adapter
   - name: Research & Science
     repos:
+      - url: https://github.com/haoming-luo/agentfem-mcp
+        description: Local finite-element project creation, validation, runs and result inspection
       - url: https://github.com/thinkchainai/agentinterviews_mcp
       - url: https://github.com/Pantheon-Security/notebooklm-mcp-secure
         description: Secure NotebookLM MCP with 14 security layers
