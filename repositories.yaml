@@ -3256,6 +3256,8 @@ categories:
           - url: https://github.com/postralai/masquerade
           - url: https://github.com/moxno/privacyscrubber-mcp
             description: Zero-Trust local PII masking and prompt sanitization for Claude Desktop and Cursor
+          - url: https://github.com/nickgeorgeseo/mcp-gatehouse
+            description: Permission tiers, fail-closed approval gates and a secret-redacting audit log enforced inside Python MCP servers
       - name: Network & Firewall
         repos:
           - url: https://github.com/intruder-io/intruder-mcp
