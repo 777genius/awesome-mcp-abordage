@@ -2476,6 +2476,8 @@ categories:
           - url: https://github.com/magarcia/mcp-server-giphy
             description: Giphy GIF integration
           - url: https://github.com/nanana-app/mcp-server-nano-banana
+          - url: https://github.com/szj2ys/pic2svg-mcp
+            description: Dependency-free Node client and stdio MCP server for tracing raster images into SVG filled paths through the Pic2SVG HTTP API.
       - name: Media Services
         repos:
           - url: https://github.com/felores/cloudinary-mcp-server
