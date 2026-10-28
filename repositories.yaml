@@ -37,6 +37,10 @@ categories:
             description: Shared project context for AI coding agents across MCP clients
           - url: https://github.com/archcore-ai/archcore
             description: Git-native context engineering and spec-driven development for AI coding agents
+          - url: https://github.com/mybolide/mcp-probe-kit
+            description: Spec-driven development workflow MCP with resumable plans and a converge gate
+          - url: https://github.com/mybolide/coding-tools-mcp
+            description: Desktop MCP workspace for file edits, command execution and session history
       - name: Human-in-the-Loop
         repos:
           - url: https://github.com/ttommyth/interactive-mcp
